@@ -55,7 +55,7 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=NazuNazuzu&theme=dracula&row=2&column=5)](https://github.com/NazuNazuzu/github-profile-trophy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazuNazuzu&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazuNazuzu&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazuNazuzu&theme=prussian&hide=lua)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazuNazuzu&theme=prussian&hide=lua)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NazuNazuzu&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazuNazuzu&theme=prussian&utcOffset=8)
