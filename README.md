@@ -35,6 +35,8 @@
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/NazuNazuzu)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/NazuNazuzu)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/NazuNazuzu)
+[![React](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextjs)](https://github.com/NazuNazuzu)
+[![React](https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nestjs)](https://github.com/NazuNazuzu)
 
 ### OS / Tool
 
