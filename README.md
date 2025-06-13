@@ -50,6 +50,7 @@
 [![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/NazuNazuzu)
 [![NGINX](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)](https://github.com/NazuNazuzu)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/NazuNazuzu)
+[![CloudFlare](https://img.shields.io/badge/cloudflare-black?style=for-the-badge&logo=cloudflare)](https://github.com/NazuNazuzu)
 
 <h1 align="center">My Ditails</h1>
 
