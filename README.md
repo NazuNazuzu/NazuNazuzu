@@ -5,14 +5,13 @@
   <b>Visit my <a href="https://nazunazuzu.github.io/portfolio/">portfolio</a> too!</b><br>
   <br>
     <i>
-        I'm Jun Kojima<br>
-        I'm 23 years old developer. Little by little developing.<br>
+        Little by little developing.<br>
         I developing automation of troublesome somthing and to learn another languages.
     </i><br/><br/>
     <i>
-    一般開発者です。<br/>
-    気の向くままに開発してます！<br/>
-    いつもするめんどくさい作業を自動化や、学習目的に試しにその言語を使ったものを開発したりしてます。
+        一般開発者です。<br/>
+        気の向くままに開発してます！<br/>
+        いつもするめんどくさい作業を自動化や、学習目的に試しにその言語を使ったものを開発したりしてます。
     </i>
 </p>
 
